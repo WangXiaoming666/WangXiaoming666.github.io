@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the site
 
 You can use the [editor on GitHub](https://github.com/WangXiaoming666/WangXiaoming666.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
